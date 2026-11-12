@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Convert the series of server to JSON">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/FibonacciServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Transform the answer JSON to Series">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/infrastructure/adapters/HttpFibonacciService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,8 @@
     <MESSAGE value="Implementing the calculation of Fibonacci" />
     <MESSAGE value="Read parameter n in the petition" />
     <MESSAGE value="Convert the series of server to JSON" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convert the series of server to JSON" />
+    <MESSAGE value="Transform the answer JSON to Series" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transform the answer JSON to Series" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
