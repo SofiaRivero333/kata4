@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Implementing the calculation of Fibonacci">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/infrastructure/adapters/ContextInput.java" afterDir="false" />
+    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Convert the series of server to JSON">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/FibonacciServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FibonacciServer.executor": "Run",
     "Maven.kata4 [compile].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -89,7 +90,9 @@
     <MESSAGE value="Adding model of series" />
     <MESSAGE value="Creating the contracts of the server" />
     <MESSAGE value="Implementing the calculation of Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing the calculation of Fibonacci" />
+    <MESSAGE value="Read parameter n in the petition" />
+    <MESSAGE value="Convert the series of server to JSON" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert the series of server to JSON" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
