@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Developing new project kata4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/architecture/domain/Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Adding model of series">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/architecture/ports/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/architecture/ports/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/architecture/ports/SeriesSerializer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +72,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Developing new project kata4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Developing new project kata4" />
+    <MESSAGE value="Adding model of series" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding model of series" />
   </component>
 </project>
