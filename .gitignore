@@ -1,0 +1,22 @@
+# Compilación y binarios
+target/
+out/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
+
+# Configuración local del IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
