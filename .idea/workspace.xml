@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Show the series in console">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Define port of consulte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,8 @@
     <MESSAGE value="Transform the answer JSON to Series" />
     <MESSAGE value="Implementing GET" />
     <MESSAGE value="Show the series in console" />
-    <option name="LAST_COMMIT_MESSAGE" value="Show the series in console" />
+    <MESSAGE value="Define port of consulte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Define port of consulte" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

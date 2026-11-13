@@ -1,6 +1,7 @@
 package software.ulpgc.katas.infrastructure.adapters;
 
 import software.ulpgc.katas.architecture.domain.Series;
+import software.ulpgc.katas.architecture.ports.FibonacciService;
 
 import java.io.IOException;
 import java.net.URI;
