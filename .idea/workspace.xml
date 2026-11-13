@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Transform the answer JSON to Series">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/infrastructure/adapters/HttpFibonacciService.java" afterDir="false" />
+    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Show the series in console">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +22,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SofiaRivero333"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SofiaRivero333/kata4.git",
+    "accountId": "f8c94513-e9c5-4820-883b-23a8f028294b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -38,13 +50,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FibonacciServer.executor": "Run",
+    "Application.Main.executor": "Run",
     "Maven.kata4 [compile].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "develop__two",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -92,7 +105,9 @@
     <MESSAGE value="Read parameter n in the petition" />
     <MESSAGE value="Convert the series of server to JSON" />
     <MESSAGE value="Transform the answer JSON to Series" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transform the answer JSON to Series" />
+    <MESSAGE value="Implementing GET" />
+    <MESSAGE value="Show the series in console" />
+    <option name="LAST_COMMIT_MESSAGE" value="Show the series in console" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

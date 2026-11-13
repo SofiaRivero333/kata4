@@ -1,6 +1,5 @@
 package software.ulpgc.katas;
 
-import software.ulpgc.katas.architecture.ports.FibonacciService;
 import software.ulpgc.katas.infrastructure.adapters.HttpFibonacciService;
 
 import java.util.Arrays;
