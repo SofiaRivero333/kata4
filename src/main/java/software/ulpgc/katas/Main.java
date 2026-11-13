@@ -1,5 +1,8 @@
 package software.ulpgc.katas;
 
+import software.ulpgc.katas.architecture.ports.FibonacciService;
+import software.ulpgc.katas.infrastructure.adapters.HttpFibonacciService;
+
 import java.util.Arrays;
 
 public class Main {
@@ -19,8 +22,12 @@ public class Main {
     }
 
     private static void show(FibonacciService service, int n) {
-        var series = service.findSeries(n);
-        System.out.println("Serie de Fibonacci: " + Arrays.toString(series.values()));
-        System.out.println("Cantidad de términos: " + series.values().length);
+        int[] values = service.findSeries(n).values();
+        int[] evenValues = Arrays.stream(values)
+                .filter(value -> value % 2 == 0)
+                .toArray();
+
+        System.out.println("Serie de Fibonacci: " + Arrays.toString(values));
+        System.out.println("Términos pares: " + Arrays.toString(evenValues));
     }
 }
