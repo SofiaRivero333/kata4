@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Define port of consulte" />
+    <list default="true" id="56f59448-847a-4c0b-960c-c43c1fe86d9c" name="Changes" comment="Show series and amount of terms">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/infrastructure/adapters/HttpFibonacciService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/katas/infrastructure/adapters/HttpFibonacciService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="develop_two" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +58,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "develop__two",
+    "git-widget-placeholder": "develop__three",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -103,10 +106,11 @@
     <MESSAGE value="Read parameter n in the petition" />
     <MESSAGE value="Convert the series of server to JSON" />
     <MESSAGE value="Transform the answer JSON to Series" />
-    <MESSAGE value="Implementing GET" />
     <MESSAGE value="Show the series in console" />
     <MESSAGE value="Define port of consulte" />
-    <option name="LAST_COMMIT_MESSAGE" value="Define port of consulte" />
+    <MESSAGE value="Implementing GET" />
+    <MESSAGE value="Show series and amount of terms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Show series and amount of terms" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
